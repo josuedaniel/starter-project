@@ -1,0 +1,24 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "learning how to use gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josuedaniel/starter-project.git"
+  },
+  "author": "Josue Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josuedaniel/starter-project/issues"
+  },
+  "homepage": "https://github.com/josuedaniel/starter-project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
